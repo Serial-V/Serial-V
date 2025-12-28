@@ -37,9 +37,9 @@ A Bedrock Edition client and bot framework focused on packet serialization, prot
 
 ---
 
-## GitHub Stats
+## Stats
 <p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Serial-V&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/Serial-V/Serial-V/main/assets/stats.svg" alt="Stats" />
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@ A Bedrock Edition client and bot framework focused on packet serialization, prot
 
 ---
 
-## Language Breakdown
+## Languages & Tools
 <p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Serial-V&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/Serial-V/Serial-V/main/assets/stack.svg" alt="Stack" />
 </p>
