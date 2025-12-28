@@ -15,8 +15,6 @@
 - Protocol handling, packet serialization, and networking internals
 - Backend development and infrastructure tooling
 
-I focus on building systems that are predictable, performant, and not duct-taped together.
-
 ---
 
 ## Currently Working On
@@ -41,7 +39,7 @@ A Bedrock Edition client and bot framework focused on packet serialization, prot
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Serial-V&show_icons=true&theme=dark&hide_border=true" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Serial-V&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
@@ -52,5 +50,5 @@ A Bedrock Edition client and bot framework focused on packet serialization, prot
 
 ## Language Breakdown
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serial-V&layout=compact&theme=dark&hide_border=true" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Serial-V&layout=compact&theme=dark&hide_border=true" />
 </p>
