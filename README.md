@@ -37,18 +37,6 @@ A Bedrock Edition client and bot framework focused on packet serialization, prot
 
 ---
 
-## Stats
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Serial-V/Serial-V/main/assets/stats.svg" alt="Stats" />
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Serial-V&theme=dark&hide_border=true" />
-</p>
-
----
-
-## Languages & Tools
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Serial-V/Serial-V/main/assets/stack.svg" alt="Stack" />
 </p>
