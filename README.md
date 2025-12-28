@@ -2,11 +2,11 @@
   <img src="https://github.com/Serial-V.png" width="120" style="border-radius: 50%;" />
 </p>
 
-<!-- <h1 align="center">Serial-V</h1>
+<h1 align="center">Serial-V</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=9CA3AF&center=true&vCenter=true&width=700&lines=TypeScript+Developer;MCBE+Server+Development;Protocol+Handling+%26+Networking;Backend+Infrastructure" />
-</p> -->
+</p>
 
 ---
 
