@@ -1,38 +1,40 @@
+
 <p align="center">
-  <img src="https://github.com/Serial-V.png" width="120" height="120" style="border-radius: 50%;" />
+  <img src="https://raw.githubusercontent.com/Serial-V/Serial-V/main/assets/banner.svg" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Serial-V.png" width="120" style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">Serial-V</h1>
 
 <p align="center">
-  TypeScript developer focused on Minecraft Bedrock Edition, backend systems, and protocol handling.
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Serial-V&style=flat&color=grey" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=9CA3AF&center=true&vCenter=true&width=700&lines=TypeScript+Developer;MCBE+Server+Development;Protocol+Handling+%26+Networking;Backend+Infrastructure" />
 </p>
 
 ---
 
 ## What I Do
 - MCBE server development and custom systems
-- Protocol handling, packet serialization, and low-level networking
+- Protocol handling, packet serialization, and networking internals
 - Backend development and infrastructure tooling
 
-Most of my work revolves around making complex systems reliable, performant, and not held together by hope.
+I focus on building systems that are predictable, performant, and not duct-taped together.
 
 ---
 
 ## Currently Working On
-**Divara Network**  
-A Minecraft Bedrock Edition network currently in development, built with custom plugins, UI systems, and backend infrastructure.
 
-**Atomic Protocol**  
-A client and bot framework focused on Bedrock packet serialization, protocol handling, and networking internals.
+### 🚀 Divara Network
+Minecraft Bedrock Edition network in development, featuring custom plugins, UI systems, and backend infrastructure.
+
+### ⚙️ Atomic Protocol
+A Bedrock Edition client and bot framework focused on packet serialization, protocol handling, and low-level networking.
 
 ---
 
-## Languages & Tools
+## Tech Stack
 - TypeScript
 - Node.js & Bun
 - React
